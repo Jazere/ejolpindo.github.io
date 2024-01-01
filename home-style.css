@@ -174,7 +174,7 @@
 @media (max-width: 820px) {
     .desc {
         height: 20vh;
-        margin-top: 115.08vw;
+        margin-top: 107vw;
     }
 }
 
@@ -323,13 +323,13 @@
     min-height: 70vh;
     min-height: 150rem at max-width of 768px;
     min-height: 170rem at max-width of 420px;
-    margin-top: 35vw;
+    margin-top: 30vw;
     margin-top: 60vw at max-width of 768px;
 }
 
 @media (max-width: 820px) {
     .courses {
-        margin-top: 60vw;
+        margin-top: 80vw;
     }
 }
 
@@ -468,6 +468,21 @@
 
 .sizer-2{
     width: 48.8vw;
+    height: 27.515vw;
+}
+
+@media (max-width: 820px) {
+    .sizer-1{
+        width: 60vw;
+        margin-left: 18vw;
+    }
+    
+    .sizer-2{
+        width: 60vw;
+        height: 37.518vw;
+        margin-top: 10vw;
+        margin-left: 18vw;
+    }
 }
 
 .gallery {
